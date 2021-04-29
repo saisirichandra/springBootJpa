@@ -1,4 +1,4 @@
-package com.example.demojpa;
+package com.example.demojpa.student;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

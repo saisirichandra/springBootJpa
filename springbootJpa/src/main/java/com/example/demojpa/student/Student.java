@@ -1,4 +1,4 @@
-package com.example.demojpa;
+package com.example.demojpa.student;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
